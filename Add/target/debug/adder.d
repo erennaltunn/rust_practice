@@ -1,0 +1,1 @@
+/home/eren/dev/rust/rust_practice/Add/target/debug/adder: /home/eren/dev/rust/rust_practice/Add/add-one/src/lib.rs /home/eren/dev/rust/rust_practice/Add/add-two/src/lib.rs /home/eren/dev/rust/rust_practice/Add/adder/src/main.rs
